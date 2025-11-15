@@ -67,5 +67,6 @@ A dynamic Excel dashboard visualizing:
 
 <a href="https://github.com/Ayanfe-hub/Buying-Behavior-of-Nigerians-2025-Report-/blob/main/Buying%20Behaviour%20of%20Nigerians%20(Analysis).xlsx">Dataset and Analysis</a> 
 
-<a href=https://github.com/Ayanfe-hub/Buying-Behavior-of-Nigerians-2025-Report-/blob/main/Buying%20Behaviour%20of%20Nigerians.png>Dashboard</a>
+<img width="4067" height="1824" alt="Buying Behaviour of Nigerians" src="https://github.com/user-attachments/assets/34f7fea7-0bc6-4e21-8656-75c8b1bb5aac" />
+
 
