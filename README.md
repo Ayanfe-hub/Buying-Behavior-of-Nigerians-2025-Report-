@@ -17,3 +17,17 @@ The analysis provides actionable insights into how Nigerians spend, where they s
 - Explore factors that influence buying decisions  
 - Visualize findings in an Excel dashboard  
 - Provide recommendations for businesses targeting Nigerian consumers
+
+## 🧩 Data Collection
+Data was collected through a structured Google Form with 10 questions covering:
+- Gender  
+- Age range  
+- Location  
+- Monthly shopping frequency  
+- Average Monthly Spending 
+- Shopping platforms  
+- Preferred Payment methods  
+- Buying Decision Influences
+- Categories of Products Bought frequently
+
+Raw responses were exported to Excel and prepared for analysis.
