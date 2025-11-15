@@ -34,4 +34,34 @@ Raw responses were exported to Excel and prepared for analysis.
 
 ## 🛠️ Tools Used
 - *Google Forms* (Data Collection)  
-- *Microsoft Excel* (Cleaning, Pivot Tables, Dashboard Design)  
+- *Microsoft Excel* (Cleaning, Pivot Tables, Dashboard Design)
+
+## ⚙️ Process Workflow
+
+### 1. *Data Acquisition*
+Google Form → Excel export → Uploaded raw data to Microsoft Excel
+
+### 2. *Data Cleaning*
+- Removed empty rows  
+- Standardized text format  
+- Extracted numerical values where needed  
+
+### 3. *Feature Engineering*
+- Computed a column named "Active Shopper" categorizing respondents to "Frequent" (users that shops more 5 times  monthly) and "Occassional" (less than 5 times)
+- Calculated another column named "Monthly Spend Category" depending on average amount respondents spends on shopping monthly i.e. High, Medium and Low
+
+### 4. *Analysis*
+Performed using Excel Pivot Tables:
+- Distribution analysis  
+- Trend and pattern identification  
+- Cross-tab relationships (eg. income vs payment method)
+
+### 5. *Dashboard Development*
+A dynamic Excel dashboard visualizing:
+- KPIs  
+- Demographics  
+- Spending and frequency  
+- Platform ranking  
+- Influencer ranking  
+- Product categories
+
