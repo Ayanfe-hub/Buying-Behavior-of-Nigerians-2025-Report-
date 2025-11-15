@@ -66,3 +66,5 @@ A dynamic Excel dashboard visualizing:
 - Influencer ranking  
 - Product categories
 
+<a href=https://github.com/Ayanfe-hub/Buying-Behavior-of-Nigerians-2025-Report-/blob/main/Buying%20Behaviour%20of%20Nigerians.png>Dashboard</a>
+
