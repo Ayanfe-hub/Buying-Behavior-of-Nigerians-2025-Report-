@@ -31,3 +31,7 @@ Data was collected through a structured Google Form with 10 questions covering:
 - Categories of Products Bought frequently
 
 Raw responses were exported to Excel and prepared for analysis.
+
+## 🛠️ Tools Used
+- *Google Forms* (Data Collection)  
+- *Microsoft Excel* (Cleaning, Pivot Tables, Dashboard Design)  
