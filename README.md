@@ -65,6 +65,19 @@ A dynamic Excel dashboard visualizing:
 - Influencer ranking  
 - Product categories
 
+## 📊 Summary and Recommendations 
+**Insights** 
+- Majority of the respondents are young, urban, and active online shopper as the responders fall within the age range of 26-35.
+- WhatsApp is emerging as a key digital marketplace.
+- Transfers dominate payments; cashless adoption is high.
+- Quality and discounts shape purchase intent.
+
+**Recommendations** 
+- Businesses should further leverage WhatsApp as a key channel for customer engagement and promotional activities.
+- Marketing efforts should be strategically targeted toward the 18–35 age demographic.
+- Maintaining high product quality while implementing competitive and affordable pricing should remain a priority.
+- As Physical Stores rank as the second-largest shopping platform, businesses should prioritize maintaining high product quality to strengthen customer satisfaction and encourage repeat purchases.
+
 <a href="https://github.com/Ayanfe-hub/Buying-Behavior-of-Nigerians-2025-Report-/blob/main/Buying%20Behaviour%20of%20Nigerians%20(Analysis).xlsx">Dataset and Analysis</a> 
 
 <img width="4067" height="1824" alt="Buying Behaviour of Nigerians" src="https://github.com/user-attachments/assets/34f7fea7-0bc6-4e21-8656-75c8b1bb5aac" />
